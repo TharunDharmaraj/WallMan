@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_wallpaper_description">Look at text when your phone is charging</string>
+    <string name="day_night_wallpaper_description">Wallpaper adapts to your current theme</string>
+    <string name="title_activity_easter">EasterActivity</string>
+    <string name="daily_widget_description">Choose you own wallpaper</string>
+    <string name="daily_widget_label">Next wallpaper</string>
+</resources>

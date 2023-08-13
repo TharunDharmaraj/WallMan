@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_wallpaper_description">Look at text when your phone is charging</string>
+    <string name="day_night_wallpaper_description">Обои адаптируются под вашу тему</string>
+    <string name="title_activity_easter">EasterActivity</string>
+    <string name="daily_widget_description">Выберите свои собственные обои</string>
+    <string name="daily_widget_label">Следующие обои</string>
+</resources>

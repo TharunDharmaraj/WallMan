@@ -1,0 +1,1 @@
+<p><i>WallMan</i> is a beautiful app to get beautiful dynamic and static wallpapers(from Google Pixel). Note that most dynamic wallpapers require Android 11 and modern Android phone, so Android 11 or later is recommended(this app can run on Android 8 and later, but static wallpapers only)</p>

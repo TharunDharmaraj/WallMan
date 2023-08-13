@@ -1,0 +1,5 @@
+- Shiny new UI with beautiful animations
+- New category of wallpapers: Birdies - the elegant plumage of elegant birds
+- New wallpapers for garden: Florals(static only), Flamingo flower, Persian Buttercup, Maki Dahila, Boat Orchid. Note: these wallpapers(excluding Florals) require device with high performance, so they can lag on lower-performance devices
+- New wallpapers for picturesque places: Landscapes
+- Improved stability and performance

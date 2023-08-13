@@ -1,0 +1,41 @@
+{
+  "dynamicWallpapers": [
+    {
+      "previewName": {
+        "en": "AA",
+        "ru": "QQ"
+      },
+      "shortName": {
+        "en": "BB",
+        "ru": "CC"
+      },
+      "description": {
+        "en": "DD",
+        "ru": "EE"
+      },
+      "previewRes": "aaaa.png",
+      "serviceName": ".p.p"
+    }
+  ],
+  "staticWallpapers": [
+    {
+      "previewName": {
+        "en": "DD",
+        "ru": "FF"
+      },
+      "shortName": {
+        "en": "OO",
+        "ru": "LL"
+      },
+      "description": {
+        "en": "EE",
+        "ru": "NN"
+      },
+      "previewRes": "dddd.png",
+      "remoteUrl": "dddd_d"
+    }
+  ],
+  "parentId": 0,
+  "categoryId": 0,
+  "author": "Author"
+}

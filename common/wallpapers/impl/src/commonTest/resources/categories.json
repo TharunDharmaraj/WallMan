@@ -1,0 +1,68 @@
+[
+    {
+        "name": {
+            "en": "Appulse",
+            "ru": "Парад планет"
+        },
+        "description": {
+            "en": "Explore whole Solar System with Your device.",
+            "ru": "Исследуйте всю Солнечную систему с Вашим устройством."
+        },
+        "id": 0
+    },
+    {
+        "name": {
+            "en": "Wonders of the World",
+            "ru": "Чудеса света"
+        },
+        "description": {
+            "en": "Look at Wonders of the World right from Your device.",
+            "ru": "Смотрите на чудеса света прямо с Вашего устройства."
+        },
+        "id": 1
+    },
+    {
+        "name": {
+            "en": "Picturesque places",
+            "ru": "Живописные места"
+        },
+        "description": {
+            "en": "You can look at 3 things endlessly: how fire burns, how water flows and how seagulls fly.",
+            "ru": "Бесконечно можно смотреть на 3 вещи: как горит огонь, как течёт вода и как летают чайки."
+        },
+        "id": 2
+    },
+    {
+        "name": {
+            "en": "Flight of fancy",
+            "ru": "Полет фантазии"
+        },
+        "description": {
+            "en": "Look at abstractions in a new way.",
+            "ru": "Посмотрите на абстракции по-новому."
+        },
+        "id": 3
+    },
+    {
+        "name": {
+            "en": "Your little garden",
+            "ru": "Твой маленький сад"
+        },
+        "description": {
+            "en": "Take a look! A moth orchid has bloomed in your garden!",
+            "ru": "Взгляни! В твоем саду расцвела орхидея-мотылек!"
+        },
+        "id": 4
+    },
+    {
+        "name": {
+            "en": "Birdies",
+            "ru": "Птички"
+        },
+        "description": {
+            "en": "Elegant plumage of elegant birds.",
+            "ru": "Элегантное оперение элегантных птиц."
+        },
+        "id": 5
+    }
+]

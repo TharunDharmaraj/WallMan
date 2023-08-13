@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/daily_widget_description"
+    android:minWidth="100dp"
+    android:minHeight="100dp"
+    android:configure="com.colorata.wallman.shared.ShapePickerActivity"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"
+    android:updatePeriodMillis="1800000"
+    android:widgetFeatures="reconfigurable|configuration_optional"
+    android:previewImage="@drawable/daily_widget_preview"
+    />

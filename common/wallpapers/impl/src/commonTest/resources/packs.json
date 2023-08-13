@@ -1,0 +1,174 @@
+[
+    {
+        "urlPart": "P",
+        "previewName": {
+            "en": "Pinball Wallpaper Pack",
+            "ru": "Пак обоев \"Пинбол\""
+        },
+        "url": "P.apk",
+        "id": 0,
+        "packageName": "com.google.pixel.livewallpaper.pulley",
+        "checksum": 7294917,
+        "previewRes": "p_pulley_preview",
+        "minSdk": 28
+    },
+    {
+        "urlPart": "P1",
+        "previewName": {
+            "en": "Pixel 1 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 1\""
+        },
+        "url": "P1.apk",
+        "id": 1,
+        "packageName": "com.breel.geswallpapers",
+        "checksum": 85330559,
+        "previewRes": "p1_moab_preview",
+        "minSdk": 29
+    },
+    {
+        "urlPart": "P2",
+        "previewName": {
+            "en": "Pixel 2 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 2\""
+        },
+        "url": "P2.apk",
+        "id": 2,
+        "packageName": "com.breel.wallpapers",
+        "checksum": 169453255,
+        "previewRes": "p2_honolulu_preview",
+        "minSdk": 30
+    },
+    {
+        "urlPart": "P3",
+        "previewName": {
+            "en": "Pixel 3 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 3\""
+        },
+        "url": "P3.apk",
+        "id": 3,
+        "packageName": "com.breel.wallpapers18",
+        "checksum": 167338589,
+        "previewRes": "p3_fiji_preview",
+        "minSdk": 30
+    },
+    {
+        "urlPart": "P4",
+        "previewName": {
+            "en": "Pixel 4 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 4\""
+        },
+        "url": "P4.apk",
+        "id": 4,
+        "packageName": "com.breel.wallpapers19",
+        "checksum": 47202066,
+        "previewRes": "p4_arabia_preview",
+        "minSdk": 30
+    },
+    {
+        "urlPart": "P4A",
+        "previewName": {
+            "en": "Pixel 4a Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 4a\""
+        },
+        "url": "P4a.apk",
+        "id": 5,
+        "packageName": "com.breel.wallpapers20a",
+        "checksum": 9889771,
+        "previewRes": "p4a_gradient_preview",
+        "minSdk": 30
+    },
+    {
+        "urlPart": "P5",
+        "previewName": {
+            "en": "Pixel 5 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 5\""
+        },
+        "url": "P5.apk",
+        "id": 6,
+        "packageName": "com.breel.wallpapers20",
+        "checksum": 50256888,
+        "previewRes": "p5_stack_preview",
+        "minSdk": 30
+    },
+    {
+        "urlPart": "P6",
+        "previewName": {
+            "en": "Pixel 6 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 6\""
+        },
+        "url": "P6.apk",
+        "id": 7,
+        "packageName": "com.google.pixel6.livewallpaper",
+        "packageServiceName": "com.google.pixel.wallpapers21",
+        "checksum": 162961629,
+        "previewRes": "p6_blooming_botanicals_v1_preview",
+        "minSdk": 28
+    },
+    {
+        "urlPart": "P6_EXT",
+        "previewName": {
+            "en": "Pixel 6 Extended Wallpaper Pack",
+            "ru": "Расширенный пак обоев \"Pixel 6\""
+        },
+        "url": "P6_EXT.apk",
+        "id": 8,
+        "packageName": "com.google.pixel7.livewallpaper",
+        "packageServiceName": "com.google.pixel.wallpapers22.lightfieldflower",
+        "checksum": 191212605,
+        "previewRes": "p6_ext_boat_orchid",
+        "minSdk": 31
+    },
+    {
+        "urlPart": "P6A",
+        "previewName": {
+            "en": "Pixel 6A Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 6A\""
+        },
+        "url": "P6a.apk",
+        "id": 9,
+        "packageName": "com.google.pixel6a.livewallpaper",
+        "checksum": 0,
+        "includesDynamic": false,
+        "previewRes": "p6a_landscapes_v1_dark_preview"
+    },
+    {
+        "urlPart": "P7",
+        "previewName": {
+            "en": "Pixel 7 Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 7\""
+        },
+        "url": "P7.apk",
+        "id": 10,
+        "packageName": "com.google.pixel7.livewallpaper",
+        "checksum": 0,
+        "includesDynamic": false,
+        "previewRes": "p7_pro_lemongrass_light_preview"
+    },
+    {
+        "urlPart": "P7A",
+        "previewName": {
+            "en": "Pixel 7A Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel 7A\""
+        },
+        "url": "P7.apk",
+        "id": 11,
+        "packageName": "com.google.pixel7a.livewallpaper",
+        "checksum": 0,
+        "includesDynamic": false,
+        "previewRes": "p7_pro_lemongrass_light_preview"
+    },
+    {
+        "urlPart": "PFOLD",
+        "previewName": {
+            "en": "Pixel Fold Wallpaper Pack",
+            "ru": "Пак обоев \"Pixel Fold\""
+        },
+        "url": "PFOLD.apk",
+        "id": 12,
+        "packageName": "com.trzpro.pixelfold",
+        "packageServiceName": "com.trzpro",
+        "checksum": 47208128,
+        "previewRes": "pfold_licorice_preview",
+        "minSdk": 28
+    }
+]

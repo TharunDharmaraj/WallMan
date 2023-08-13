@@ -1,0 +1,10 @@
+{
+    "api": 5,
+    "categories": "categories.json",
+    "packs": "packs.json",
+    "wallpapers": "wallpapers.json",
+    "resources": "resources/",
+    "urls": [
+        "https://sam.nl.tab.digital/s/wqZaeixFAsDEdGe/download?path=/"
+    ]
+}

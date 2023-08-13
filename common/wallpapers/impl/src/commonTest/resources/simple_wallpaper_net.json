@@ -1,0 +1,28 @@
+{
+  "previewName": {
+    "en": "PreviewName",
+    "ru": "Превью"
+  },
+  "previewRes": "p_wallpaper_preview.png",
+  "shortName": {
+    "en": "ShortName",
+    "ru": "Короткое превью"
+  },
+  "description": {
+    "en": "Description",
+    "ru": "Описание"
+  },
+  "dynamicWallpapers": [
+    {
+      "serviceName": ".p.wallpaper"
+    }
+  ],
+  "staticWallpapers": [
+    {
+      "remoteUrl": "p_wallpaper.png"
+    }
+  ],
+  "parentId": 0,
+  "categoryId": 0,
+  "author": "Author"
+}
